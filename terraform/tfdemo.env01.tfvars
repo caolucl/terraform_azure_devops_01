@@ -1,4 +1,4 @@
 # Variables for env01
-project              = "tfdemo"
+project              = "tfdemolcao1dev"
 environment          = "env01"
 location             = "southeastasia"
